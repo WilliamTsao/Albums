@@ -1,2 +1,2 @@
 # Albums_reactNativePractice
-Practice with React Native
+Practicing ios development with React Native
